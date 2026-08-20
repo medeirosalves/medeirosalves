@@ -1,19 +1,17 @@
 <h1 align="center">👋 Olá, eu sou Luan Patrick</h1>
 
 <p align="center">
-  <strong>🐍 Desenvolvedor Python em formação</strong>
+  <strong>🐍 Desenvolvedor Python</strong>
 </p>
 
 <p align="center">
-  Desenvolvedor focado em Python, automação, sistemas e desenvolvimento de software.
+  Desenvolvedor focado em Python, programação e criação de sistemas.
 </p>
 
 <p align="center">
-  <a href="https://github.com/medeirosalves">
-    <img src="https://img.shields.io/badge/GitHub-3776AB?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B">
-  <img src="https://img.shields.io/badge/Software%20Engineering-3776AB?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
@@ -22,13 +20,21 @@
 
 Sou formado em **Análise e Desenvolvimento de Sistemas** e pós-graduado em **Engenharia de Software**.
 
-Atualmente estou focado no ecossistema **Python**, desenvolvendo projetos práticos e aprofundando meus conhecimentos em programação, automação, APIs, bancos de dados e Inteligência Artificial.
+Atualmente estou focado no aprendizado e desenvolvimento com **Python**, buscando transformar meus estudos em projetos práticos e evoluir cada vez mais como desenvolvedor.
 
-Gosto de aprender através de projetos e transformar conhecimento em aplicações reais.
+Tenho interesse principalmente em:
+
+- 🐍 Desenvolvimento com Python
+- 🧩 Programação Orientada a Objetos
+- ⚙️ Automação
+- 🌐 APIs
+- 🗄️ Bancos de dados
+- 🤖 Inteligência Artificial
+- 🖥️ Desenvolvimento de sistemas
 
 ---
 
-## 🐍 Tecnologias
+## 🐍 Tecnologias e ferramentas
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,git,github,postgresql,django,selenium" />
@@ -36,37 +42,28 @@ Gosto de aprender através de projetos e transformar conhecimento em aplicaçõe
 
 ### 📚 Atualmente estudando
 
-- Python
-- Programação Orientada a Objetos
-- Manipulação e persistência de arquivos
-- APIs
-- Automação
-- Web Scraping
-- SQL e bancos de dados
-- Django
-- Selenium
-- PySide6
-- Inteligência Artificial
+`Python` · `POO` · `Arquivos` · `APIs` · `Automação` · `Web Scraping` · `SQL` · `Django` · `Selenium` · `PySide6` · `Inteligência Artificial`
 
 ---
 
-## 🚀 Projetos
-
-### 🔐 Gerador de Senhas
-
-Aplicação desenvolvida em Python para geração de senhas.
-
-### 👥 Cadastro de Pessoas
-
-Projeto desenvolvido para praticar **Programação Orientada a Objetos**, CRUD e persistência de dados.
+## 🚀 Projeto atual
 
 ### 📦 Sistema de Estoque
 
-Projeto em desenvolvimento utilizando Python, POO e organização de dados.
+Sistema desenvolvido em **Python** para gerenciamento de produtos e estoque.
 
-### 💬 Gerador de Frases Motivacionais
+O projeto está sendo desenvolvido com foco em:
 
-Aplicação desenvolvida em Python para geração de frases motivacionais.
+- Programação Orientada a Objetos
+- Organização do código
+- Cadastro de produtos
+- Controle de estoque
+- Manipulação de arquivos
+- Persistência de dados
+- Boas práticas de programação
+
+🔗 **Repositório:**  
+[Ver projeto no GitHub](https://github.com/medeirosalves/sistema-estoque)
 
 ---
 
@@ -80,26 +77,19 @@ Descomplica
 
 ---
 
-## 📊 GitHub
+## 🎯 Atualmente
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=medeirosalves&show_icons=true&hide_border=true&theme=tokyonight&title_color=3776AB&icon_color=FFD43B&text_color=FFFFFF" />
+Estou construindo minha base em **Python** através de projetos práticos, estudando novos conceitos e buscando transformar cada aprendizado em código.
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medeirosalves&layout=compact&hide_border=true&theme=tokyonight&title_color=3776AB&text_color=FFFFFF" />
-</p>
-
----
-
-## 🎯 Objetivo
-
-Construir projetos cada vez mais completos, evoluir minhas habilidades como desenvolvedor e transformar conhecimento em soluções reais.
-
----
-
-<p align="center">
-  <strong>🐍 Python • 🚀 Automação • 💻 Software • 🤖 IA</strong>
-</p>
-
-<p align="center">
-  <i>Aprendendo. Construindo. Evoluindo.</i>
-</p>
+```text
+🐍 Python
+   ↓
+🧩 Programação Orientada a Objetos
+   ↓
+🗄️ Bancos de Dados
+   ↓
+🌐 APIs e Web
+   ↓
+⚙️ Automação
+   ↓
+🤖 Inteligência Artificial
