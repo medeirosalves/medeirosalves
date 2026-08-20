@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou Luan Patrick</h1>
 
 <p align="center">
-  <strong>🐍 Python Developer em formação</strong>
+  <strong>🐍 Desenvolvedor Python em formação</strong>
 </p>
 
 <p align="center">
